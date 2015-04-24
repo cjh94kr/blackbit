@@ -1,2 +1,2 @@
 # blackbit
-the transmission protocol for security
+The Secured Transmission Protocol Project.
